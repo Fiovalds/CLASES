@@ -1,0 +1,17 @@
+en Javascript
+se define la variable como var
+	- let numer = 10
+
+el punto y coma es opcional
+Js diferencia los tipos de datos sin q los etiquetes
+	- let numero = 10
+	- let nombre = "edgar"
+
+consolo.log() para que aparezca en la pantalla. pinta el dato
+
+para convertir de String a number
+	- parseInt o parseFloat
+
+
+para declarar un valor constante 
+	-constr diaSemana = "Jueves"

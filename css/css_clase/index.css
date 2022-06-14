@@ -1,0 +1,25 @@
+/*titulo*/
+h1{
+    background-color: orange;
+    color:blueviolet; 
+}
+
+/*etiqueta*/
+#titulo_dos {
+    background-color: blueviolet;
+    color: orange;
+}
+
+/*clase*/
+.grupo1{
+    font-size: 100px;
+    display: none;
+}
+
+h2 {
+    background-color: aqua;
+}
+
+a:visited{
+    color:aqua
+}

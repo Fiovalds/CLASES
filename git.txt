@@ -1,0 +1,31 @@
+LOCAL
+git init: inicializar una carpeta de git
+
+-Creamos un doc de text
+
+git status:
+git add '.txt': añadimos el txt al git
+git commit (enter)
+ ------
+En la parte de arriba escribimos de trata
+el cambio
+ctrl S para guardar
+------------------------
+luego viene la parte REMOTA
+
+-Entramos a github y creamos un repositorio
+
+git remote add origin (copiamos la direcc q sale en el github) (origin es la etiqueta)
+git push origin master
+
+hago algun cambio en el txt y lo guardo
+
+git status (si sale rojo hay cambio)
+git add '.txt
+git commit
+-agrgamos otro comment en la primera linea-
+git push origin master (para enviar el cambio a github)
+
+
+
+

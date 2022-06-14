@@ -1,0 +1,5 @@
+git pull = actualizar
+git add .
+git statuts -s
+git commit -m "comentario"
+git push

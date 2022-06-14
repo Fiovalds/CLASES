@@ -1,0 +1,33 @@
+utilizar los estilos dentro del html pero en una seccion especialde
+dentro de head se crea etiqueta <style>
+
+segunda forma: ahi mismo
+
+tercer forma: utiliazr un archivo externo/hoja de estilo. luego en la de html referencia 
+	 <link  href="/index.css" type="text/css" rel="stylesheet"/>
+
+ID: selector de ID, como para identificarlos y luego poder editar c/u llamandolos
+	ej:<h1 id="titulo_dos">Titulo 2</h1>
+	-luego en css-
+	#cal{color:red;
+	     font-sizeL 15px;}
+
+luego en css llamas al id con #
+	ej: #titulo_dos {
+    background-color: blueviolet;
+    color: orange;}
+
+
+clasee: agrupo textos a un grupo como para poder identificarlos
+	ej: <h1 class="grupo1">Titulo 3</h1>
+
+    	    <p class="grupo1">hola, tengo sueno</p>
+css: .
+	el punto es seleecion por clase
+	ej: .grupo1{
+    font-size: 100px;}
+
+etiqueta color para definir el color de letra
+
+
+<body class="container"> : para poner margen
